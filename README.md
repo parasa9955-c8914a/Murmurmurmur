@@ -40,3 +40,5 @@ This repository contains the project structure and setup files needed to build a
 ## Notes
 
 The app currently contains a deployment-ready template and does not yet implement the heart sound classification model itself.
+# Murmurmurmur
+coding in EDA and traning process.
